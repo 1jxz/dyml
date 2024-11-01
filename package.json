@@ -1,0 +1,24 @@
+{
+  "name": "dyml",
+  "version": "1.0.0",
+  "description": "dyml (dynamic modeling language)",
+  "main": "./lib/index.js",
+  "types": "./lib/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "keywords": [],
+  "author": "Gustav",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1jxz/dyml"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.6",
+    "eslint": "^9.14.0",
+    "typescript": "^5.6.3"
+  }
+}
