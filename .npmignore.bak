@@ -1,0 +1,9 @@
+node_modules
+.vscode
+.vs
+.git
+obj
+.gitattributes
+.gitignore
+.npmignore
+*.bak

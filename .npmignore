@@ -1,0 +1,12 @@
+node_modules
+.git
+.vs
+.vscode
+obj
+.gitattributes
+.gitignore
+.npmignore
+*.bak
+*.esproj*
+*.sln
+nuget.config
